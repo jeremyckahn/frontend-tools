@@ -21,6 +21,7 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 * [stealJS](http://javascriptmvc.com/docs.html#!stealjs)
 * [anvil.js](https://github.com/anviljs/anvil.js/)
 * [modjs](http://modulejs.github.io/modjs/)
+* [nodefront](http://karthikv.github.com/nodefront/)
 * [AUTOMATON](http://indigounited.com/automaton/)
 * [volo](http://volojs.org/)
 
@@ -55,9 +56,12 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 * [purecss](http://purecss.io/)
 * [tuktuk](http://tuktuk.tapquo.com/)
 * [Metro UI CSS](http://metroui.org.ua/)
+* [Flat UI Kit](http://designmodo.github.io/Flat-UI/)
 * [workless](http://workless.ikreativ.com/)
 * [99lime](http://www.99lime.com/)
 * [ink] (http://ink.sapo.pt/)
+* [Semantic UI](http://semantic-ui.com/)
+* [uikit](http://www.getuikit.com)
 
 ---
 
@@ -109,12 +113,14 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 * [Upcast](https://github.com/rowanmanning/upcast)
 * [taffydb](http://www.taffydb.com/)
 * [Catiline.js](http://Catilinejs.com/)
+* [XRegExp](http://xregexp.com/)
 
 ---
 
-######Key Helpers
+######Keyboard Helpers
 * [keys.js](https://github.com/bitwalker/keys.js)
 * [mousestrap](http://craig.is/killing/mice)
+* [Keypress](http://dmauro.github.io/Keypress/)
 
 ---
 
@@ -166,6 +172,7 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 * [doT.js](http://olado.github.io/doT/)
 * [underscore](http://underscorejs.org/#template)
 * [mold](https://github.com/idottv/Mold)
+* [nunjucks](http://jlongster.github.io/nunjucks/)
 
 ---
 
@@ -193,27 +200,54 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 
 ---
 
-######Test Runners
+######Testing Frameworks
 
 * [testem](https://github.com/airportyh/testem)
 * [Karma](http://karma-runner.github.io/0.8/index.html)
 * [intern](http://theintern.io/)
+* [buster.js](http://busterjs.org/)
 
 ---
 
-######User Automated Testing
+######Browser Testing & Browser Automated Testing & Browser Screen Captures
 
 * [casperJS](http://casperjs.org/)
+* [Selenium](http://www.seleniumhq.org/)
+* [phantomJS](http://phantomjs.org/)
+* [saucelabs](https://saucelabs.com)
+* [browserstack](http://www.browserstack.com/)
+* [browserling](https://browserling.com/)
+* [DalekJS](http://dalekjs.com/)
+* [testling-ci](http://ci.testling.com/)
 
 ---
 
-######Testing Frameworks
+######Tests Runners
 
 * [mocha](http://visionmedia.github.com/mocha/)
-* [buster.js](http://busterjs.org/)
 * [qunit](http://qunitjs.com/)
 * [jasmine](http://pivotal.github.com/jasmine/)
-* [expect.js](https://github.com/LearnBoost/expect.js)
+
+---
+
+######Test spies, stubs and mocks
+
+* [sinon.js](http://sinonjs.org/)
+
+---
+
+######Code Coverage
+
+* [istanbul](http://gotwarlost.github.io/istanbul/)
+* [blanket.js](http://blanketjs.org/)
+* [coveralls](https://coveralls.io/)
+
+---
+
+######Code Complexity & Reports
+
+* [jscomplexity](http://jscomplexity.org/)
+* [plato](https://github.com/es-analysis/plato)
 
 ---
 
@@ -222,14 +256,6 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 * [chai](http://chaijs.com/)
 * [should](https://github.com/visionmedia/should.js)
 * [expect](https://github.com/LearnBoost/expect.js)
-
----
-
-######Remote DOM and JS Testing
-* [browserstack](http://www.browserstack.com/)
-* [browserling/testling](https://browserling.com/)
-* [selenium](http://seleniumhq.org/)
-* [JS test driver](http://code.google.com/p/js-test-driver/)
 
 ---
 
@@ -249,6 +275,7 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 * [node-jsdoc-toolkit](https://github.com/p120ph37/node-jsdoc-toolkit)
 * [dox](https://github.com/visionmedia/dox)
 	* [markdox](https://github.com/cbou/markdox)
+	* [dox-foundation](https://github.com/punkave/dox-foundation)
 
 ---
 
@@ -274,6 +301,7 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 
 ######HTML Quality Validators
 * [html-inspector](https://github.com/philipwalton/html-inspector)
+* [htmlHint](http://htmlhint.com/)
 
 ---
 
@@ -301,6 +329,7 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 * [less](http://lesscss.org)
 	* [LESS Elements](http://lesselements.com/): Mixins library for LESS
 	* [Semantic.gs](http://semantic.gs/): Semantic CSS grid system
+* [Absurd](http://krasimir.github.io/absurd/#client-side-tests)
 
 ######Languages Compiling to JS ([http://altjs.org/](http://altjs.org/))
 * [coffeeScript](http://coffeescript.org/)
@@ -314,6 +343,7 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 ######Languages Compiling to HTML
 * [jade](http://jade-lang.com/)
 * [haml](https://github.com/haml/haml)
+* [blade](https://github.com/bminer/node-blade)
 * [markdown](http://daringfireball.net/projects/markdown/)
 * [slim](http://slim-lang.com/)
 
@@ -325,6 +355,7 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 * [davis.js](http://davisjs.com/)
 * [Routie](http://projects.jga.me/routie/)
 * [director](https://github.com/flatiron/director)
+* [Finch.js](http://stoodder.github.io/finchjs/)
 
 
 ---
@@ -358,7 +389,6 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 ---
 
 ######Full Stack Application Structure/Frameworks
-* [tower.js](http://towerjs.org/) (requires NodeJS)
 * [wakanda](http://www.wakanda.org/)
 * [meteor](http://www.meteor.com/)
 
@@ -423,6 +453,7 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 	* [D3.js](http://d3js.org/)
 	* [raphaeljs](http://raphaeljs.com/)
 	* [bonsaijs.org](http://bonsaijs.org/)
+	* [snapsvg.io](http://snapsvg.io/)
 * [Canvas](https://developer.mozilla.org/en-US/docs/HTML/Canvas)
 	* [paper.js](http://paperjs.org/)
 	* [fabric.js](http://fabricjs.com/)
@@ -579,6 +610,7 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 * [Plunker](https://github.com/filearts/plunker)
 * [cssdeck](http://cssdeck.com/)
 * [codepen](http://codepen.io/)
+* [liveweave](http://liveweave.com/)
 
 ######Execute/Test live code
 * [runnable](http://runnable.com/)
@@ -602,7 +634,13 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 * [browserhacks.com](http://www.browserhacks.com/)
 
 
-##Backend services for frontend developers
+##API first, CMS Service
+
+* [contentful](https://www.contentful.com)
+* [prismic.io](https://prismic.io)
+
+
+##Backend services for front-end developers
 
 * [firebase](https://www.firebase.com/index.html)
 * [pusher](http://pusher.com/)
@@ -623,8 +661,19 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 ##API tools
 
 * [apiary](http://apiary.io/)
+* [api engine](https://apiengine.io/)
+* [Swagger](https://developers.helloreverb.com/swagger/)
+
+##API Mocking
+
 * [mocky.io](http://www.mocky.io/)
 * [FillText.com](http://www.filltext.com/)
+* [JSONPlaceholder](http://jsonplaceholder.typicode.com/)
+
+##Image Mocking
+
+* [placekitten](http://placekitten.com/)
+* [PLACEHOLD.IT](http://placehold.it/)
 
 ##JSON Query Tools
 
@@ -640,6 +689,7 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 * [pouchdb](http://pouchdb.com/)
 * [Web Storage](http://www.w3.org/TR/webstorage/)
 * [Indexed Database API](http://www.w3.org/TR/IndexedDB/)
+* [lokiJS](http://lokijs.org/)
 
 
 ##Catalog/Collection of JavaScript Libs and Tools
@@ -649,6 +699,12 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 * [javascriptoo.com](http://www.javascriptoo.com/)
 * [microjs.com](http://microjs.com/)
 * [JSDB.IO](http://www.jsdb.io/?sort=trending)
+
+
+##Static Site Generators
+
+* [http://staticsitegenerators.net/](http://staticsitegenerators.net/)
+
 
 
 
